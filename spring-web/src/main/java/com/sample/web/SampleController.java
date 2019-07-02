@@ -19,4 +19,8 @@ public class SampleController {
 	public String bugFix() {
 		return "bugFix";
 	}
+	
+	public String test() {
+		return "test";
+	}
 }
